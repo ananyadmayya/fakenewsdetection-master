@@ -1,0 +1,6 @@
+venv/
+data/
+logs/
+*.csv
+assets/
+sample/
